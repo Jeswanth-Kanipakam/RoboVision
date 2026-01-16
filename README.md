@@ -1,4 +1,4 @@
-# Semantic 3D Object Mapping with RGB-D & YOLO
+# RoboVision with RGB-D & YOLO
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
