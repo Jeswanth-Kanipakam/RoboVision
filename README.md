@@ -30,6 +30,10 @@ By combining **YOLOv11** for detection, **ByteTrack** for object tracking, and c
     * **Wall Logic:** Allows objects to touch walls but not be embedded deep inside them.
 * **Duplicate Removal:** Merges multiple detections of the same object using spatial clustering.
 
+## 📊 Outputs
+
+<img width="391" height="380" alt="office_results" src="https://github.com/user-attachments/assets/42dbac8b-90d7-4160-a6b0-b20e77a85c2d" />
+
 ## 🤝 Contributing
 
 Feel free to contribute by submitting pull requests! 🚀.
